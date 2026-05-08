@@ -35,13 +35,6 @@ Report-A_Replication/
 └── README.md
 ```
 
-
-
-
-1. a reproduction study based on Ryan et al. (2025), focusing on COVID-19 protective behaviours in Australia;
-2. a preliminary exploratory analysis for my own project, focusing on self-isolation willingness and perceived feasibility in the China sample.
-
-
 ## Code workflow
 
 The notebooks should be run in numerical order.
