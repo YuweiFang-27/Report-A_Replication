@@ -25,8 +25,14 @@ Report-A_Replication/
 │   ├── 10_feature_importance.ipynb
 │   └── 11_china_comparison.ipynb
 │
-└── data/
-    ├── raw.zip
+├── data/
+│   └── raw.zip
+│
+├── results/
+│   ├── figures/
+│   └── xgb_feature_importance_plots/
+│
+└── README.md
 ```
 
 
