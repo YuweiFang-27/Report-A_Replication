@@ -59,7 +59,7 @@ The `data/` folder contains `raw.zip`. After extracting this file, the `raw/` fo
 
 ## Results
 
-The `results/` folder contains the final figures used in the progress report. The `figures/` folder contains the China and Australia self-isolation heatmap, and the `xgb_feature_importance_plots/` folder contains the XGBoost feature importance plots.
+The `results/` folder contains the final figures used in the progress report. The `figures/` folder contains the China and Australia heatmap comparing self-isolation willingness and perceived feasibility, and the `xgb_feature_importance_plots/` folder contains the XGBoost feature importance plots.
 
 ## Acknowledgement
 
