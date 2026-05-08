@@ -57,6 +57,10 @@ The `data/` folder contains `raw.zip`. After extracting this file, the `raw/` fo
 - `china.csv`: the China sample from the Imperial College London YouGov COVID-19 Behaviour Tracker dataset;
 - `OxCGRT_AUS_latest.csv`: Australian policy data from the Oxford COVID-19 Government Response Tracker.
 
+## Results
+
+The `results/` folder contains the final figures used in the progress report. The `figures/` folder contains the China and Australia self-isolation heatmap, and the `xgb_feature_importance_plots/` folder contains the XGBoost feature importance plots.
+
 ## Acknowledgement
 
 The code workflow and modelling logic in this repository were developed with reference to Ryan et al. (2025). Part of the code used in the data cleaning and preprocessing notebooks was directly taken from the code used in Ryan et al. (2025).
